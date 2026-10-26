@@ -8,3 +8,6 @@ venv/
 .ipynb_checkpoints/
 .streamlit/secrets.toml
 data/
+.sf/
+models/carepulse_model.pkl
+models/carepulse_metrics.txt
