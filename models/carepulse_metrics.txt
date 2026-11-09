@@ -1,0 +1,7 @@
+CarePulse model evaluation
+Dataset: artificially generated; not clinical validation
+Valid records: 110527
+Training records: 88421
+Test records: 22106
+Accuracy: 0.7656
+ROC-AUC: 0.5310399249767289
